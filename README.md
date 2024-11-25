@@ -21,7 +21,7 @@ Exampe:
 ```sh
 # codes2pdf is a Node.js module
 npx codes2pdf ./ /tmp/team_reference.pdf
-npx codes2pdf ./src --author "NSU\_TravelingSolvesmen" --initials "NSU"
+npx codes2pdf ./src --author "NSU\_Team\_Aseh" --initials "NSU"
 ```
 
 
