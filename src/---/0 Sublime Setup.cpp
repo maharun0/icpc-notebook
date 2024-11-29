@@ -18,3 +18,7 @@
 // stdc++.h.gch is created precompile done
 
 // preferences -> settings add "save_on_window_deactivation": true
+
+// windows
+"cmd": [ "g++.exe", "-std=c++14", "${file}", "-o", "${file_base_name}.exe", "&&", "${file_base_name}.exe", 
+"<", "input.txt", ">", "output.txt", "2>", "debug.txt", "&&", "del", "${file_base_name}.exe"],
